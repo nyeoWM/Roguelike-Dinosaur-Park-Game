@@ -3,6 +3,7 @@
 
 ## Instructions
 Compile all classes and run 
-'''
+
+```
 java src/game/Application.java
-'''
+```
